@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GreeterApp</string>
+    <string name="enter_a_greeting">Enter a greeting</string>
+    <string name="BTNgreet">Greet</string>
+</resources>
